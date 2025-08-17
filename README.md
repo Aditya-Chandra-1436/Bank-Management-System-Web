@@ -1,4 +1,4 @@
-# Portfolio
+# Bank Management System
 Apex Bank - Management Dashboard
 This project is a front-end web application that simulates a bank's management dashboard. It provides a clean, modern interface for performing common banking operations like creating accounts, handling transactions, and viewing account details. The application is built entirely with client-side technologies and uses the browser's localStorage to persist data, meaning no backend is required.
 
